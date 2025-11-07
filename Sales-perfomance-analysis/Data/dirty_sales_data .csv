@@ -1,0 +1,106 @@
+Sale_ID,Customer_Name,Product,Unit_Price,Quantity,Total_Amount,Sale_Date,Region,Payment_Method
+66,Eve,headphones,4500,3,13500,"Mar 28, 2025",nairobi,card
+36,carol,monitor,500,,,04/10/2025,Kisumu,Bank Transfer
+43,Eve,Mouse,2500,1,2500,14/04/2025,Eldoret,cash
+94,Ivy,Charger,8000,,,"Mar 22, 2025",nakuru,cash
+39,Ivy,Keyboard,1200,1,1200,23-Mar-24,Mombasa,Cash
+40,john,Phone,15000,2,30000,"May 02, 2024",Eldoret,Card
+55,Alice,Tablet,15000,3,45000,"Sep 11, 2024",Kisumu,Card
+87,Alice,Printer,1200,2,2400,29/04/2025,nakuru,Cash
+32,Alice,Phone,500,,,04-21-2024,Mombasa,Card
+78,frank,Keyboard,4500,,,30/07/2024,nairobi,Bank Transfer
+100,Alice,Phone,2500,2,5000,"Sep 06, 2024",Kisumu,card
+82,john,Keyboard,500,,,31-Jul-25,nakuru,Cash
+93,Grace,Camera,15000,,,21/03/2025,Mombasa,card
+83,Bob,monitor,1200,,,21/02/2024,Kisumu,Bank Transfer
+34,dave,Phone,4500,1,4500,07/07/2025,Nairobi,Cash
+90,Grace,monitor,15000,2,30000,05/09/2024,Nairobi,card
+94,Ivy,Charger,8000,,,"Mar 22, 2025",nakuru,cash
+70,john,headphones,15000,,,"Feb 13, 2025",Mombasa,Card
+18,Ivy,Charger,8000,1,8000,03/07/2025,Kisumu,MPESA
+74,Ivy,Mouse,1200,,,"Sep 22, 2024",Mombasa,MPESA
+49,Eve,Laptop,500,,,02-15-2024,Nairobi,mpesa
+84,frank,headphones,4500,3,13500,01-23-2025,Kisumu,MPESA
+68,john,Camera,500,2,1000,08-18-2024,Mombasa,Card
+54,Grace,Printer,15000,2,30000,15/06/2024,Mombasa,Bank Transfer
+59,Grace,Keyboard,2500,1,2500,24/09/2024,Mombasa,cash
+56,Bob,monitor,,1,,"Aug 15, 2024",Mombasa,MPESA
+88,john,headphones,4500,3,13500,06-20-2024,Eldoret,cash
+86,Alice,Camera,1200,1,1200,01/02/2024,Mombasa,Card
+60,Eve,Laptop,500,,,11-17-2024,nairobi,cash
+37,Ivy,Mouse,1200,2,2400,08/10/2024,Nairobi,cash
+11,Bob,Printer,15000,2,30000,07-Sept-24,Mombasa,Bank Transfer
+3,dave,Keyboard,8000,1,8000,22-Jul-24,nakuru,card
+33,dave,Keyboard,4500,2,9000,"Jul 06, 2024",Kisumu,Bank Transfer
+71,Alice,Phone,,,,29/06/2024,nakuru,cash
+20,Eve,Keyboard,,2,,18-Apr-24,nakuru,mpesa
+28,dave,Laptop,500,1,500,10/03/2024,Nairobi,MPESA
+45,Bob,headphones,2500,3,7500,24/03/2025,Eldoret,card
+63,frank,Printer,2500,1,2500,06/03/2025,Kisumu,card
+99,Grace,Mouse,8000,2,16000,"May 17, 2025",nairobi,MPESA
+81,HENRY,Laptop,4500,3,13500,"Jun 18, 2024",nairobi,Card
+41,john,Printer,500,1,500,"Aug 20, 2025",Eldoret,cash
+47,carol,Charger,500,1,500,08-Jun-24,Kisumu,mpesa
+57,HENRY,Camera,2500,2,5000,25/01/2024,nakuru,Card
+79,john,Laptop,,,,"Jan 07, 2024",Kisumu,mpesa
+24,HENRY,Phone,,2,,01/05/2025,Eldoret,Card
+35,dave,Tablet,4500,,,"Aug 06, 2024",nairobi,Cash
+92,Grace,Camera,500,3,1500,06/03/2025,nairobi,Cash
+95,Eve,Camera,,2,,12/10/2024,nairobi,Card
+34,dave,Phone,4500,1,4500,07/07/2025,Nairobi,Cash
+16,frank,headphones,1200,,,18/02/2024,Nairobi,Card
+89,Bob,Tablet,2500,1,2500,27-Jan-24,Kisumu,cash
+42,frank,Charger,1200,3,3600,28/09/2024,nairobi,Card
+52,Ivy,Tablet,4500,2,9000,11/11/2024,Kisumu,MPESA
+46,Eve,Printer,,1,,02-Nov-24,nakuru,Cash
+97,frank,Tablet,4500,2,9000,09-21-2024,Kisumu,mpesa
+53,Alice,Camera,1200,2,2400,28/12/2024,Eldoret,MPESA
+27,dave,headphones,500,3,1500,21/07/2025,Mombasa,cash
+82,john,Keyboard,500,,,31-Jul-25,nakuru,Cash
+44,Bob,Phone,8000,2,16000,28-Sept-24,Mombasa,mpesa
+98,john,Charger,8000,1,8000,14-Jul-24,Nairobi,Card
+25,Eve,Keyboard,,,,06/07/2025,nakuru,card
+5,carol,monitor,2500,3,7500,08/08/2024,Kisumu,Cash
+67,dave,Keyboard,4500,2,9000,17/10/2024,Eldoret,card
+75,Eve,Keyboard,4500,2,9000,03-26-2025,Nairobi,card
+50,carol,Charger,1200,,,13-Mar-25,Eldoret,Cash
+22,Ivy,Laptop,8000,3,24000,"Jan 20, 2024",Nairobi,mpesa
+4,Ivy,monitor,1200,,,11-Oct-24,Nairobi,MPESA
+31,Bob,Phone,15000,,,03/09/2025,nairobi,Bank Transfer
+48,john,headphones,15000,3,45000,27/09/2024,Eldoret,Bank Transfer
+81,HENRY,Laptop,4500,3,13500,"Jun 18, 2024",nairobi,Card
+9,Eve,Phone,,2,,24/01/2025,Kisumu,Bank Transfer
+61,Ivy,Phone,4500,2,9000,02-15-2024,nakuru,Bank Transfer
+1,Bob,Laptop,15000,3,45000,16/08/2024,Mombasa,card
+96,HENRY,Printer,8000,,,01-30-2024,nairobi,MPESA
+58,Grace,Camera,2500,1,2500,12-25-2024,nakuru,cash
+23,Eve,headphones,500,2,1000,21-Mar-24,Nairobi,card
+62,Alice,Keyboard,,2,,03-17-2025,Nairobi,card
+64,Grace,Camera,4500,3,13500,10-May-24,Mombasa,Bank Transfer
+8,john,Camera,8000,2,16000,16/02/2024,nakuru,Card
+85,Grace,Charger,,1,,"Jan 20, 2024",nakuru,cash
+14,frank,headphones,15000,,,"Apr 14, 2025",Mombasa,mpesa
+69,Alice,Laptop,1200,,,15-Mar-24,nairobi,Bank Transfer
+91,Eve,Printer,,1,,12-Feb-24,Kisumu,cash
+15,carol,headphones,15000,3,45000,14-Mar-25,Eldoret,Bank Transfer
+30,carol,Printer,8000,,,29/04/2025,nairobi,Card
+29,frank,Phone,8000,2,16000,05/12/2025,Mombasa,cash
+12,Grace,Charger,15000,2,30000,02-27-2024,Mombasa,MPESA
+85,Grace,Charger,,1,,"Jan 20, 2024",nakuru,cash
+19,frank,Phone,2500,,,09/04/2025,Nairobi,card
+21,Ivy,Printer,1200,2,2400,06-14-2024,Eldoret,MPESA
+51,Bob,Phone,15000,2,30000,06-Feb-24,Kisumu,cash
+26,dave,Charger,4500,3,13500,"Jun 13, 2025",nairobi,Cash
+7,HENRY,Keyboard,500,,,19/07/2025,Kisumu,MPESA
+72,HENRY,Laptop,8000,2,16000,12/04/2025,Mombasa,MPESA
+77,carol,headphones,4500,2,9000,06/03/2024,nairobi,Bank Transfer
+2,Bob,Keyboard,500,,,31/01/2024,Nairobi,Card
+17,carol,monitor,8000,1,8000,"Jan 25, 2025",Eldoret,Bank Transfer
+65,Grace,Tablet,8000,3,24000,"Jul 15, 2025",Nairobi,mpesa
+80,Grace,monitor,8000,2,16000,"Aug 12, 2024",Kisumu,Bank Transfer
+6,Bob,monitor,500,3,1500,09-27-2024,Nairobi,card
+76,Eve,headphones,2500,3,7500,07/07/2025,Nairobi,Card
+10,frank,Tablet,2500,3,7500,30/09/2024,nakuru,card
+73,HENRY,Keyboard,8000,3,24000,"May 31, 2025",nairobi,MPESA
+13,Alice,Camera,4500,3,13500,04/08/2024,Eldoret,card
+38,Ivy,Laptop,15000,3,45000,21/02/2024,Eldoret,Bank Transfer
