@@ -33,9 +33,8 @@ This project analyzes sales data to uncover key trends in revenue, product perfo
 
 ### 🔗 Files
 - [Raw Sales Data https://github.com/yvonne-muli/YVONNE-MULI-DATA-ANALYST-PORTFOLIO/blob/main/Sales-perfomance-analysis/Data/dirty_sales_data%20.csv
-- [Cleaned Sales Data 
-- [Power BI Dashboard Screenshot](./visuals/dashboard.png)  
-- [Power BI File (.pbix)](./visuals/powerbi_dashboard.pbix)  
+- [Cleaned Sales Data https://github.com/yvonne-muli/YVONNE-MULI-DATA-ANALYST-PORTFOLIO/blob/main/Sales-perfomance-analysis/Data/CLEANED%20SALES%20DATA.xlsx
+- [Power BI Visuals 
 
 ---
 
