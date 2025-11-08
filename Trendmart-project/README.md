@@ -27,17 +27,11 @@ To recreate the TrendMart database:
 
 1. Download the repository or clone it:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/trendmart-project.git
-
+   gihttps://github.com/yvonne-muli/TRENDMART
 	2.	Open Supabase or any SQL environment.
 	3.	Run the schema file:
 
-\i schema.sql
 
-
-	4.	(Optional) Insert sample data or create new queries for analysis.
-
-⸻
 
 📊 Analysis & Insights
 
@@ -48,7 +42,6 @@ After creating the database, analysis was performed in Power BI and Excel to exp
 	•	Churn by age group
 	•	Product performance and sales distribution
 
-⸻
 
 🧠 Skills Demonstrated
 	•	Database design and normalization
@@ -57,7 +50,7 @@ After creating the database, analysis was performed in Power BI and Excel to exp
 	•	Power BI dashboard creation
 	•	Data storytelling and presentation
 
-⸻
+
 
 📁 Project Files
 
@@ -68,15 +61,15 @@ docs/trendmart_erd.png	Entity Relationship Diagram
 README.md	Project overview and documentation
 
 
-⸻
+
 
 💬 Author
 
 Yvonne Muli
-📧 [your-email@example.com]
-🔗 GitHub Profile￼
+📧 muliyvonne941@gmail.com
+🔗 https://github.com/yvonne-muli
 
-⸻
+
 
 
 ---
