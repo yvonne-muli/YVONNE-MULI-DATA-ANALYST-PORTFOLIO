@@ -18,7 +18,8 @@ The database contains *three main tables* with a *foreign key relationship*:
 ## 🗂 ERD (Entity Relationship Diagram)
 The following ERD illustrates the relationships between the tables:
 
-![TrendMart ERD](
+![TrendMart ERD](<img width="1187" height="558" alt="image" src="https://github.com/user-attachments/assets/c541a9e0-9c44-4909-aa91-6582ff2a0f2e" />
+
 ---
 
 ## ⚙ Setup Instructions
