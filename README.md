@@ -15,7 +15,7 @@ I turn messy data into clear, actionable insights.
    [View Project]
 3. *Sales Analysis*  
    Monthly sales trends and category performance analysis using SQL and Excel.  
-   [View Project](.
+   [View Project]https://github.com/yvonne-muli/YVONNE-MULI-DATA-ANALYST-PORTFOLIO/blob/main/Sales-perfomance-analysis/README.md
 ## Skills
 - SQL (queries, joins, aggregations)
 - Excel (pivot tables, formulas, data cleaning)
