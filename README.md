@@ -1,7 +1,5 @@
 # YVONNE-MULI-DATA-ANALYST-PORTFOLIO
 
-# Yvonne Muli - Data Analyst Portfolio
-
 Hi 👋, I’m Yvonne — a data analyst skilled in SQL, Excel, and Power BI.  
 I turn messy data into clear, actionable insights.
 
@@ -12,7 +10,7 @@ I turn messy data into clear, actionable insights.
    [View Project]https://github.com/yvonne-muli/YVONNE-MULI-DATA-ANALYST-PORTFOLIO/blob/main/Trendmart-project/README.md
 2. *Safaricom Churn Analysis*  
    Analysis of customer churn using Excel and Power BI dashboards, including churn by gender, region, age, and tenure months.  
-   [View Project]
+   [View Project]https://github.com/yvonne-muli/YVONNE-MULI-DATA-ANALYST-PORTFOLIO/blob/main/Safaricom%20churn%20analysis/README.md
 3. *Sales Analysis*  
    Monthly sales trends and category performance analysis using SQL and Excel.  
    [View Project]https://github.com/yvonne-muli/YVONNE-MULI-DATA-ANALYST-PORTFOLIO/blob/main/Sales-perfomance-analysis/README.md
