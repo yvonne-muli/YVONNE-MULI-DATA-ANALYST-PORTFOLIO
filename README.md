@@ -22,4 +22,4 @@ I turn messy data into clear, actionable insights.
 
 ## Contact
 📧 Email:muliyvonne941@gmail.com 
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/yvonne-muli-a604ab31b
